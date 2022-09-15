@@ -11,6 +11,7 @@ public class GitDemoApplication {
         System.out.println("hello,git");
         System.out.println("hello,git!");
         System.out.println("hello,git!123");
+        System.out.println("hello,git!master");
     }
 
 }
